@@ -1,0 +1,17 @@
+{
+  "name": "likeItem",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "like.js",
+  "scripts": {
+    "start": "node like.js "
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cli-table": "^0.3.11",
+    "cli-table2": "^0.2.0"
+  },
+  "keywords": [],
+  "author": "ONSESYAH",
+  "license": "ISC"
+}
